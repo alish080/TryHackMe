@@ -45,6 +45,7 @@ Once the IP address is given now add that to your `etc/hosts`
 -  Go to the bottom of the file and add the `ip address   futurevera.thm`
 
 For example,
+
 ![example])(add1.png)
 
 2. Once added try to open if it does switch the protocol to <https> or <http> even when you switch high chance the website won't open even if it opens it is no use so we will have to find other subdomain and see through that,
