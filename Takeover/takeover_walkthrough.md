@@ -48,9 +48,9 @@ For example,
 
 ![example](add1.png)
 
-2. Once added try to open if it does switch the protocol to <https> or <http> even when you switch high chance the website won't open even if it opens it is no use so we will have to find other subdomain and see through that,
+2. Once added try to open if it does switch the protocol to `https` or `http>` even when you switch high chance the website won't open even if it opens it is no use so we will have to find other subdomain and see through that,
 
-3. we will use <fuzzer> They take a massive list of word and try then one by one against a target, we are gonna use fuzzers like
+3. we will use "fuzzer" They take a massive list of word and try then one by one against a target, we are gonna use fuzzers like
 
 - ffuf (fuzz faster you fool)
 - gobuster
