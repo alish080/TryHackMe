@@ -20,7 +20,7 @@ If you are using Attackbox of TryHackMe then please ingnore this part, but if yo
 
 4. Connect it with the configuration file which we downloaded go to the driver where the configuration is  stored  and run  `sudo openvpn your_configurationfile`
 
-5. Go to TryHackMe Access where you downloaded the configuration file you will see a option <not connected> to <connected>
+5. Go to TryHackMe Access where you downloaded the configuration file you will see a option <notconnected> to <connected>
 
 > Now we are all set to solve the challange. 
 
