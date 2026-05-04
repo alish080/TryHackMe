@@ -2,7 +2,7 @@
 
 I will create writeup's of challanges that i solve and will post it here .
 
-The video link will be attatched as well if i made if any queries or issue occurs please feel free to contact through gmail or github
+The video link will be attatched as well if i make it; if any queries or issue occurs please feel free to contact through gmail or github
 
 ---
 **Youtube video channel link :  	www.youtube.com/@networkviabits**
