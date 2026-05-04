@@ -10,15 +10,15 @@ If you want to see walkthrough video  : https://youtu.be/aWwzMVwBJdE?si=hc9UcuZd
 
 If you are using Attackbox of TryHackMe then please ignore this part, but if you are using your localmachine then you have do as mentioned below,
 
-> First  you have to connect to the openvpn and configure with the configure file provided by 'Tryhackme access' of you TyHackMe profile.
+> First  you have to connect to the openvpn and configure with the configure file provided by 'Tryhackme access' of your TyHackMe profile.
 
 1. Intsall the openvpn if not installed `sudo apt update && sudo apt install openvpn easy-rsa`
 
-2. once installed check with the command `openvpn --version` if installed you will see the openvpm verison installed in you machine
+2. once installed check with the command `openvpn --version` if installed you will see the openvpm verison installed in your machine
 
-3. now go to the 'TryHackMe Access' there scroll down there will the download option of openvpn configuration file of your profile install it now,
+3. now go to the 'TryHackMe Access' then scroll down, there will be the download option of openvpn configuration file of your profile install it now,
 
-4. Connect it with the configuration file which we downloaded go to the driver where the configuration is  stored  and run  `sudo openvpn your_configurationfile`
+4. Connect it with the configuration file which we downloaded,go to the driver where the configuration is  stored  and run  `sudo openvpn your_configurationfile`
 
 5. Go to TryHackMe Access where you downloaded the configuration file you will see a option "not_connected" to "connected"
 
