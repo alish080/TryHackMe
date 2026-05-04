@@ -4,7 +4,7 @@ Hello let's dive straight to the issue,
 
 ---
 
-If you will to see video : https://youtu.be/aWwzMVwBJdE?si=hc9UcuZdnXAPxnP8
+If you want to see walkthrough video  : https://youtu.be/aWwzMVwBJdE?si=hc9UcuZdnXAPxnP8
 
 ---
 
