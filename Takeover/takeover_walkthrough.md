@@ -8,7 +8,7 @@ If you want to see walkthrough video  : https://youtu.be/aWwzMVwBJdE?si=hc9UcuZd
 
 ---
 
-If you are using Attackbox of TryHackMe then please ingnore this part, but if you are using your localmachine then yoi have do as mentioned
+If you are using Attackbox of TryHackMe then please ignore this part, but if you are using your localmachine then you have do as mentioned below,
 
 > First  you have to connect to the openvpn and configure with the configure file provided by 'Tryhackme access' of you TyHackMe profile.
 
