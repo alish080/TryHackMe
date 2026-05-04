@@ -90,13 +90,13 @@ Search for another subdonmain using our `ffuf` command earlier
 
 ![adding_another_sub](add3.png)
 
-now let's go to our blog page and see if we have some thing and same for the support page
+now let's go to our blog page and see if we have some things that will be helpful  and same for the support page
 
-Look likes there is othing in blog certificate too, let's see support page
+Look likes there is nothing in blog certificate too, let's see support page
 
 If you see `https://support..futurevera.thm` and go to see its certificates and scroll down you will see,
 
-you will see a alternative name SAN (sundomain alternative name) if you sear the name iwth `https` or `http`
+you will see a alternative name SAN (subdomain alternative name) if you search the name with `https` or `http`
 
 - http://SAN-you_will_find
 OR,
