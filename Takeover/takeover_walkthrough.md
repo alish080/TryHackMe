@@ -102,7 +102,7 @@ you will see a alternative name SAN (sundomain alternative name) if you sear the
 OR,
 - https://SAN-you_will_find
 
-and if see at search box you will see a flag remove the uncesssary thinks and paste the flag,
+and if you look at search box you will see a flag remove the uncesssary things and paste the flag,
 
 ![flag](final.png)
 
