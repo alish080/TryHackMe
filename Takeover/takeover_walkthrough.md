@@ -64,7 +64,7 @@ Now, go where the `seclist` is located usually it is at `cd /usr/share/speclist`
 
 4. Open new terminal and Run 
 
-- `ffuf -u https://futurevera.thm/ -H "HOST: FUZZ.futurevera.thm -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt -fs 0"`
+- `ffuf -u https://futurevera.thm/ -H "HOST: FUZZ.futurevera.thm" -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt -fs 0`
 
 so as you run this you will see subdomains that are open for this website (Here might me `portol` and `payroll` )
 
