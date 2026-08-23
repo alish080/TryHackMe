@@ -28,7 +28,7 @@ Let's see view page source or simple press (ctrl+U)
 
 Here notice the line written in comment, we are told use guest:guest as credentialsas admin is off limit so we type `guest:guest` as a username and password in login page 
 
-![guest](guest.png)
+![guest](ss/guest.png)
 
 Press login , or Enter
 
