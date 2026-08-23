@@ -12,13 +12,13 @@ Now, Start your attackbox and  Lab machine
 
 Once you start the Lab machine that is your vulnerable website we are gonna exploit it,
 
-![ip](/ss/ips.png)
+![ip](ss/ips.png)
 
 Here in my case, htttp://10.49.165.91 is the vulnerability website
 
 so now open firefox in you attackbox and visit the website,
 
-![login](/ss/login.png)
+![login](ss/login.png)
 
 So, as you can see a login page but we are told if you don't have a account  use guest account 
 
