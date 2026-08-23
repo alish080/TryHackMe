@@ -12,7 +12,10 @@ I have made a video about the walkthorugh as well.
 
 If you have further more question then please feel free to contact me  through 
 
+
 Gmail: learningvia6@gmail.com or alishthapa45@gmail.com
+
+Medium : https://medium.com/@alishhh/takeover-tryhackme-write-up-4122fd2171e9?postPublishedType=repub
 
 ---
 
