@@ -7,6 +7,8 @@ The video link will be attatched as well if i make it; if any queries or issue o
 ---
 **Youtube video channel link :  	www.youtube.com/@networkviabits**
 
+medium : https://medium.com/@alishhh/
+
 Gmail: alishthapa45@gmail.com or learningvia6@gmail.com
 
 ---
